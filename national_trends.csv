@@ -1,0 +1,441 @@
+date,trend,keyword
+2023-11-12,70,niacinamide serum
+2023-11-19,76,niacinamide serum
+2023-11-26,75,niacinamide serum
+2023-12-03,72,niacinamide serum
+2023-12-10,79,niacinamide serum
+2023-12-17,62,niacinamide serum
+2023-12-24,70,niacinamide serum
+2023-12-31,69,niacinamide serum
+2024-01-07,70,niacinamide serum
+2024-01-14,70,niacinamide serum
+2024-01-21,70,niacinamide serum
+2024-01-28,61,niacinamide serum
+2024-02-04,67,niacinamide serum
+2024-02-11,63,niacinamide serum
+2024-02-18,67,niacinamide serum
+2024-02-25,67,niacinamide serum
+2024-03-03,66,niacinamide serum
+2024-03-10,69,niacinamide serum
+2024-03-17,65,niacinamide serum
+2024-03-24,61,niacinamide serum
+2024-03-31,66,niacinamide serum
+2024-04-07,64,niacinamide serum
+2024-04-14,60,niacinamide serum
+2024-04-21,59,niacinamide serum
+2024-04-28,61,niacinamide serum
+2024-05-05,56,niacinamide serum
+2024-05-12,57,niacinamide serum
+2024-05-19,62,niacinamide serum
+2024-05-26,63,niacinamide serum
+2024-06-02,60,niacinamide serum
+2024-06-09,60,niacinamide serum
+2024-06-16,56,niacinamide serum
+2024-06-23,58,niacinamide serum
+2024-06-30,61,niacinamide serum
+2024-07-07,67,niacinamide serum
+2024-07-14,64,niacinamide serum
+2024-07-21,64,niacinamide serum
+2024-07-28,73,niacinamide serum
+2024-08-04,73,niacinamide serum
+2024-08-11,65,niacinamide serum
+2024-08-18,64,niacinamide serum
+2024-08-25,71,niacinamide serum
+2024-09-01,65,niacinamide serum
+2024-09-08,63,niacinamide serum
+2024-09-15,64,niacinamide serum
+2024-09-22,57,niacinamide serum
+2024-09-29,54,niacinamide serum
+2024-10-06,59,niacinamide serum
+2024-10-13,59,niacinamide serum
+2024-10-20,55,niacinamide serum
+2024-10-27,62,niacinamide serum
+2024-11-03,65,niacinamide serum
+2024-11-10,65,niacinamide serum
+2024-11-17,69,niacinamide serum
+2024-11-24,66,niacinamide serum
+2024-12-01,69,niacinamide serum
+2024-12-08,68,niacinamide serum
+2024-12-15,61,niacinamide serum
+2024-12-22,58,niacinamide serum
+2024-12-29,63,niacinamide serum
+2025-01-05,63,niacinamide serum
+2025-01-12,61,niacinamide serum
+2025-01-19,63,niacinamide serum
+2025-01-26,66,niacinamide serum
+2025-02-02,70,niacinamide serum
+2025-02-09,69,niacinamide serum
+2025-02-16,67,niacinamide serum
+2025-02-23,64,niacinamide serum
+2025-03-02,72,niacinamide serum
+2025-03-09,72,niacinamide serum
+2025-03-16,73,niacinamide serum
+2025-03-23,66,niacinamide serum
+2025-03-30,66,niacinamide serum
+2025-04-06,71,niacinamide serum
+2025-04-13,68,niacinamide serum
+2025-04-20,65,niacinamide serum
+2025-04-27,66,niacinamide serum
+2025-05-04,75,niacinamide serum
+2025-05-11,69,niacinamide serum
+2025-05-18,63,niacinamide serum
+2025-05-25,63,niacinamide serum
+2025-06-01,64,niacinamide serum
+2025-06-08,69,niacinamide serum
+2025-06-15,66,niacinamide serum
+2025-06-22,64,niacinamide serum
+2025-06-29,64,niacinamide serum
+2025-07-06,72,niacinamide serum
+2025-07-13,74,niacinamide serum
+2025-07-20,69,niacinamide serum
+2025-07-27,69,niacinamide serum
+2025-08-03,65,niacinamide serum
+2025-08-10,69,niacinamide serum
+2025-08-17,71,niacinamide serum
+2025-08-24,73,niacinamide serum
+2025-08-31,68,niacinamide serum
+2025-09-07,66,niacinamide serum
+2025-09-14,61,niacinamide serum
+2025-09-21,59,niacinamide serum
+2025-09-28,65,niacinamide serum
+2025-10-05,73,niacinamide serum
+2025-10-12,70,niacinamide serum
+2025-10-19,70,niacinamide serum
+2025-10-26,84,niacinamide serum
+2025-11-02,100,niacinamide serum
+2025-11-09,94,niacinamide serum
+2025-11-16,100,niacinamide serum
+2025-11-23,100,niacinamide serum
+2025-11-30,78,niacinamide serum
+2025-12-07,84,niacinamide serum
+2025-12-14,87,niacinamide serum
+2023-11-12,71,salicylic acid face wash
+2023-11-19,70,salicylic acid face wash
+2023-11-26,74,salicylic acid face wash
+2023-12-03,69,salicylic acid face wash
+2023-12-10,72,salicylic acid face wash
+2023-12-17,68,salicylic acid face wash
+2023-12-24,69,salicylic acid face wash
+2023-12-31,62,salicylic acid face wash
+2024-01-07,65,salicylic acid face wash
+2024-01-14,65,salicylic acid face wash
+2024-01-21,61,salicylic acid face wash
+2024-01-28,56,salicylic acid face wash
+2024-02-04,59,salicylic acid face wash
+2024-02-11,58,salicylic acid face wash
+2024-02-18,64,salicylic acid face wash
+2024-02-25,62,salicylic acid face wash
+2024-03-03,64,salicylic acid face wash
+2024-03-10,64,salicylic acid face wash
+2024-03-17,59,salicylic acid face wash
+2024-03-24,60,salicylic acid face wash
+2024-03-31,67,salicylic acid face wash
+2024-04-07,62,salicylic acid face wash
+2024-04-14,64,salicylic acid face wash
+2024-04-21,59,salicylic acid face wash
+2024-04-28,62,salicylic acid face wash
+2024-05-05,60,salicylic acid face wash
+2024-05-12,63,salicylic acid face wash
+2024-05-19,70,salicylic acid face wash
+2024-05-26,65,salicylic acid face wash
+2024-06-02,64,salicylic acid face wash
+2024-06-09,68,salicylic acid face wash
+2024-06-16,66,salicylic acid face wash
+2024-06-23,70,salicylic acid face wash
+2024-06-30,78,salicylic acid face wash
+2024-07-07,83,salicylic acid face wash
+2024-07-14,80,salicylic acid face wash
+2024-07-21,75,salicylic acid face wash
+2024-07-28,77,salicylic acid face wash
+2024-08-04,73,salicylic acid face wash
+2024-08-11,81,salicylic acid face wash
+2024-08-18,77,salicylic acid face wash
+2024-08-25,77,salicylic acid face wash
+2024-09-01,85,salicylic acid face wash
+2024-09-08,83,salicylic acid face wash
+2024-09-15,74,salicylic acid face wash
+2024-09-22,66,salicylic acid face wash
+2024-09-29,80,salicylic acid face wash
+2024-10-06,64,salicylic acid face wash
+2024-10-13,71,salicylic acid face wash
+2024-10-20,70,salicylic acid face wash
+2024-10-27,70,salicylic acid face wash
+2024-11-03,83,salicylic acid face wash
+2024-11-10,81,salicylic acid face wash
+2024-11-17,75,salicylic acid face wash
+2024-11-24,75,salicylic acid face wash
+2024-12-01,72,salicylic acid face wash
+2024-12-08,64,salicylic acid face wash
+2024-12-15,60,salicylic acid face wash
+2024-12-22,54,salicylic acid face wash
+2024-12-29,60,salicylic acid face wash
+2025-01-05,57,salicylic acid face wash
+2025-01-12,64,salicylic acid face wash
+2025-01-19,63,salicylic acid face wash
+2025-01-26,67,salicylic acid face wash
+2025-02-02,67,salicylic acid face wash
+2025-02-09,68,salicylic acid face wash
+2025-02-16,65,salicylic acid face wash
+2025-02-23,65,salicylic acid face wash
+2025-03-02,69,salicylic acid face wash
+2025-03-09,74,salicylic acid face wash
+2025-03-16,75,salicylic acid face wash
+2025-03-23,66,salicylic acid face wash
+2025-03-30,66,salicylic acid face wash
+2025-04-06,66,salicylic acid face wash
+2025-04-13,66,salicylic acid face wash
+2025-04-20,63,salicylic acid face wash
+2025-04-27,65,salicylic acid face wash
+2025-05-04,70,salicylic acid face wash
+2025-05-11,74,salicylic acid face wash
+2025-05-18,64,salicylic acid face wash
+2025-05-25,64,salicylic acid face wash
+2025-06-01,72,salicylic acid face wash
+2025-06-08,80,salicylic acid face wash
+2025-06-15,71,salicylic acid face wash
+2025-06-22,74,salicylic acid face wash
+2025-06-29,74,salicylic acid face wash
+2025-07-06,84,salicylic acid face wash
+2025-07-13,79,salicylic acid face wash
+2025-07-20,100,salicylic acid face wash
+2025-07-27,89,salicylic acid face wash
+2025-08-03,79,salicylic acid face wash
+2025-08-10,92,salicylic acid face wash
+2025-08-17,90,salicylic acid face wash
+2025-08-24,98,salicylic acid face wash
+2025-08-31,80,salicylic acid face wash
+2025-09-07,73,salicylic acid face wash
+2025-09-14,78,salicylic acid face wash
+2025-09-21,75,salicylic acid face wash
+2025-09-28,79,salicylic acid face wash
+2025-10-05,80,salicylic acid face wash
+2025-10-12,79,salicylic acid face wash
+2025-10-19,84,salicylic acid face wash
+2025-10-26,85,salicylic acid face wash
+2025-11-02,89,salicylic acid face wash
+2025-11-09,97,salicylic acid face wash
+2025-11-16,95,salicylic acid face wash
+2025-11-23,88,salicylic acid face wash
+2025-11-30,78,salicylic acid face wash
+2025-12-07,77,salicylic acid face wash
+2025-12-14,78,salicylic acid face wash
+2023-11-12,49,sunscreen gel
+2023-11-19,53,sunscreen gel
+2023-11-26,52,sunscreen gel
+2023-12-03,49,sunscreen gel
+2023-12-10,54,sunscreen gel
+2023-12-17,50,sunscreen gel
+2023-12-24,53,sunscreen gel
+2023-12-31,47,sunscreen gel
+2024-01-07,53,sunscreen gel
+2024-01-14,52,sunscreen gel
+2024-01-21,53,sunscreen gel
+2024-01-28,56,sunscreen gel
+2024-02-04,57,sunscreen gel
+2024-02-11,62,sunscreen gel
+2024-02-18,66,sunscreen gel
+2024-02-25,68,sunscreen gel
+2024-03-03,71,sunscreen gel
+2024-03-10,78,sunscreen gel
+2024-03-17,76,sunscreen gel
+2024-03-24,82,sunscreen gel
+2024-03-31,90,sunscreen gel
+2024-04-07,90,sunscreen gel
+2024-04-14,79,sunscreen gel
+2024-04-21,84,sunscreen gel
+2024-04-28,100,sunscreen gel
+2024-05-05,74,sunscreen gel
+2024-05-12,66,sunscreen gel
+2024-05-19,69,sunscreen gel
+2024-05-26,68,sunscreen gel
+2024-06-02,62,sunscreen gel
+2024-06-09,60,sunscreen gel
+2024-06-16,63,sunscreen gel
+2024-06-23,59,sunscreen gel
+2024-06-30,55,sunscreen gel
+2024-07-07,60,sunscreen gel
+2024-07-14,58,sunscreen gel
+2024-07-21,54,sunscreen gel
+2024-07-28,55,sunscreen gel
+2024-08-04,53,sunscreen gel
+2024-08-11,54,sunscreen gel
+2024-08-18,63,sunscreen gel
+2024-08-25,57,sunscreen gel
+2024-09-01,55,sunscreen gel
+2024-09-08,54,sunscreen gel
+2024-09-15,55,sunscreen gel
+2024-09-22,57,sunscreen gel
+2024-09-29,49,sunscreen gel
+2024-10-06,49,sunscreen gel
+2024-10-13,48,sunscreen gel
+2024-10-20,53,sunscreen gel
+2024-10-27,52,sunscreen gel
+2024-11-03,54,sunscreen gel
+2024-11-10,52,sunscreen gel
+2024-11-17,52,sunscreen gel
+2024-11-24,49,sunscreen gel
+2024-12-01,45,sunscreen gel
+2024-12-08,49,sunscreen gel
+2024-12-15,41,sunscreen gel
+2024-12-22,44,sunscreen gel
+2024-12-29,44,sunscreen gel
+2025-01-05,52,sunscreen gel
+2025-01-12,50,sunscreen gel
+2025-01-19,51,sunscreen gel
+2025-01-26,57,sunscreen gel
+2025-02-02,77,sunscreen gel
+2025-02-09,75,sunscreen gel
+2025-02-16,79,sunscreen gel
+2025-02-23,74,sunscreen gel
+2025-03-02,83,sunscreen gel
+2025-03-09,76,sunscreen gel
+2025-03-16,87,sunscreen gel
+2025-03-23,77,sunscreen gel
+2025-03-30,72,sunscreen gel
+2025-04-06,73,sunscreen gel
+2025-04-13,78,sunscreen gel
+2025-04-20,79,sunscreen gel
+2025-04-27,80,sunscreen gel
+2025-05-04,82,sunscreen gel
+2025-05-11,78,sunscreen gel
+2025-05-18,65,sunscreen gel
+2025-05-25,61,sunscreen gel
+2025-06-01,58,sunscreen gel
+2025-06-08,69,sunscreen gel
+2025-06-15,56,sunscreen gel
+2025-06-22,55,sunscreen gel
+2025-06-29,58,sunscreen gel
+2025-07-06,54,sunscreen gel
+2025-07-13,60,sunscreen gel
+2025-07-20,59,sunscreen gel
+2025-07-27,52,sunscreen gel
+2025-08-03,58,sunscreen gel
+2025-08-10,62,sunscreen gel
+2025-08-17,56,sunscreen gel
+2025-08-24,57,sunscreen gel
+2025-08-31,53,sunscreen gel
+2025-09-07,62,sunscreen gel
+2025-09-14,55,sunscreen gel
+2025-09-21,59,sunscreen gel
+2025-09-28,54,sunscreen gel
+2025-10-05,59,sunscreen gel
+2025-10-12,53,sunscreen gel
+2025-10-19,54,sunscreen gel
+2025-10-26,67,sunscreen gel
+2025-11-02,76,sunscreen gel
+2025-11-09,83,sunscreen gel
+2025-11-16,85,sunscreen gel
+2025-11-23,80,sunscreen gel
+2025-11-30,57,sunscreen gel
+2025-12-07,63,sunscreen gel
+2025-12-14,65,sunscreen gel
+2023-11-12,73,vitamin c serum
+2023-11-19,90,vitamin c serum
+2023-11-26,83,vitamin c serum
+2023-12-03,76,vitamin c serum
+2023-12-10,86,vitamin c serum
+2023-12-17,77,vitamin c serum
+2023-12-24,77,vitamin c serum
+2023-12-31,79,vitamin c serum
+2024-01-07,74,vitamin c serum
+2024-01-14,79,vitamin c serum
+2024-01-21,85,vitamin c serum
+2024-01-28,74,vitamin c serum
+2024-02-04,82,vitamin c serum
+2024-02-11,79,vitamin c serum
+2024-02-18,81,vitamin c serum
+2024-02-25,83,vitamin c serum
+2024-03-03,83,vitamin c serum
+2024-03-10,84,vitamin c serum
+2024-03-17,82,vitamin c serum
+2024-03-24,87,vitamin c serum
+2024-03-31,89,vitamin c serum
+2024-04-07,84,vitamin c serum
+2024-04-14,80,vitamin c serum
+2024-04-21,76,vitamin c serum
+2024-04-28,81,vitamin c serum
+2024-05-05,78,vitamin c serum
+2024-05-12,75,vitamin c serum
+2024-05-19,77,vitamin c serum
+2024-05-26,75,vitamin c serum
+2024-06-02,67,vitamin c serum
+2024-06-09,88,vitamin c serum
+2024-06-16,96,vitamin c serum
+2024-06-23,90,vitamin c serum
+2024-06-30,81,vitamin c serum
+2024-07-07,83,vitamin c serum
+2024-07-14,94,vitamin c serum
+2024-07-21,87,vitamin c serum
+2024-07-28,90,vitamin c serum
+2024-08-04,87,vitamin c serum
+2024-08-11,84,vitamin c serum
+2024-08-18,90,vitamin c serum
+2024-08-25,86,vitamin c serum
+2024-09-01,82,vitamin c serum
+2024-09-08,86,vitamin c serum
+2024-09-15,86,vitamin c serum
+2024-09-22,80,vitamin c serum
+2024-09-29,79,vitamin c serum
+2024-10-06,74,vitamin c serum
+2024-10-13,77,vitamin c serum
+2024-10-20,70,vitamin c serum
+2024-10-27,76,vitamin c serum
+2024-11-03,81,vitamin c serum
+2024-11-10,82,vitamin c serum
+2024-11-17,86,vitamin c serum
+2024-11-24,88,vitamin c serum
+2024-12-01,90,vitamin c serum
+2024-12-08,82,vitamin c serum
+2024-12-15,78,vitamin c serum
+2024-12-22,76,vitamin c serum
+2024-12-29,78,vitamin c serum
+2025-01-05,81,vitamin c serum
+2025-01-12,81,vitamin c serum
+2025-01-19,83,vitamin c serum
+2025-01-26,86,vitamin c serum
+2025-02-02,100,vitamin c serum
+2025-02-09,88,vitamin c serum
+2025-02-16,88,vitamin c serum
+2025-02-23,83,vitamin c serum
+2025-03-02,89,vitamin c serum
+2025-03-09,87,vitamin c serum
+2025-03-16,91,vitamin c serum
+2025-03-23,76,vitamin c serum
+2025-03-30,76,vitamin c serum
+2025-04-06,74,vitamin c serum
+2025-04-13,73,vitamin c serum
+2025-04-20,71,vitamin c serum
+2025-04-27,71,vitamin c serum
+2025-05-04,72,vitamin c serum
+2025-05-11,70,vitamin c serum
+2025-05-18,66,vitamin c serum
+2025-05-25,64,vitamin c serum
+2025-06-01,66,vitamin c serum
+2025-06-08,67,vitamin c serum
+2025-06-15,71,vitamin c serum
+2025-06-22,70,vitamin c serum
+2025-06-29,70,vitamin c serum
+2025-07-06,70,vitamin c serum
+2025-07-13,70,vitamin c serum
+2025-07-20,70,vitamin c serum
+2025-07-27,70,vitamin c serum
+2025-08-03,76,vitamin c serum
+2025-08-10,79,vitamin c serum
+2025-08-17,77,vitamin c serum
+2025-08-24,76,vitamin c serum
+2025-08-31,71,vitamin c serum
+2025-09-07,70,vitamin c serum
+2025-09-14,69,vitamin c serum
+2025-09-21,64,vitamin c serum
+2025-09-28,66,vitamin c serum
+2025-10-05,73,vitamin c serum
+2025-10-12,70,vitamin c serum
+2025-10-19,69,vitamin c serum
+2025-10-26,75,vitamin c serum
+2025-11-02,81,vitamin c serum
+2025-11-09,85,vitamin c serum
+2025-11-16,88,vitamin c serum
+2025-11-23,87,vitamin c serum
+2025-11-30,75,vitamin c serum
+2025-12-07,76,vitamin c serum
+2025-12-14,86,vitamin c serum
